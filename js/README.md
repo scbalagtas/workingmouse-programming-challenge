@@ -1,6 +1,6 @@
 # Programming Challenge - Javascript
 
-Supported versions, >12.x
+Supported versions, >12.x (Implemented using version 18.16.0)
 
 ## Running
 
