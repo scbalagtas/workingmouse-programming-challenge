@@ -11,7 +11,7 @@ For installation, see https://nodejs.org/en/download/.
 ```bash
 $ cd js
 $ yarn
-$ yarn start
+$ yarn test
 ```
 
 ### Note from Steven :)

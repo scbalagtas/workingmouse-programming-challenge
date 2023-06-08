@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "private": false,
   "scripts": {
-    "start": "tsc && node ./dist/programming-challenge.js"
+    "test": "tsc && node ./dist/programming-challenge.js"
   },
   "devDependencies": {
     "typescript": "^5.1.3"
