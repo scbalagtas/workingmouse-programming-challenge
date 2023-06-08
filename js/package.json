@@ -5,5 +5,11 @@
   "main": "programming-challenge.ts",
   "author": "Steven Balagtas",
   "license": "UNLICENSED",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "tsc && node ./dist/programming-challenge.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
 }
