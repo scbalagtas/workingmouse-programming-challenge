@@ -1,0 +1,9 @@
+{
+  "name": "programming-challenge-steven-balagtas",
+  "version": "1.0.0",
+  "description": "Solution to the WorkingMouse programming challenge in TypeScript",
+  "main": "programming-challenge.ts",
+  "author": "Steven Balagtas",
+  "license": "UNLICENSED",
+  "private": false
+}
