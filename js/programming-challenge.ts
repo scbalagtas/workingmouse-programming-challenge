@@ -1,10 +1,7 @@
+import { Phrases, PHRASES } from "./const";
+
 class Program {
-  _phrases: Record<string, string> = {
-    Hello: "Ellohay",
-    "Pig Latin": "Igpay Atinlay",
-    "The first month is Janurary": "Ethay irstfay onthmay isway Anuraryjay",
-    "The floor is sticky": "Ethay oorflay isway ickystay",
-  };
+  _phrases: Phrases = PHRASES;
 
   constructor() {
     for (let english in this._phrases) {
