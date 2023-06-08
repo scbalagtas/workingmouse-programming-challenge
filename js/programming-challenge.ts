@@ -1,4 +1,5 @@
 import { Phrases, PHRASES } from "./const";
+import { translate } from "./helpers";
 
 class Program {
   _phrases: Phrases = PHRASES;
@@ -14,8 +15,7 @@ class Program {
   }
 
   _translateEnglishToPigLatin(english: string) {
-    // TODO
-    return "";
+    return translate(english);
   }
 
   _testEquals(input: string, expect: string, actual: string) {
