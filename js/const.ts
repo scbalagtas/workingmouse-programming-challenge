@@ -8,3 +8,5 @@ export const PHRASES: Phrases = {
   "The first month is Janurary": "Ethay irstfay onthmay isway Anuraryjay",
   "The floor is sticky": "Ethay oorflay isway ickystay",
 };
+
+export const VOWELS = ["a", "e", "i", "o", "u"];
